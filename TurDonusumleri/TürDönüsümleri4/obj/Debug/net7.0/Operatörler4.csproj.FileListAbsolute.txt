@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\bin\Debug\net7.0\Operatörler4.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\bin\Debug\net7.0\Operatörler4.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\bin\Debug\net7.0\Operatörler4.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\bin\Debug\net7.0\Operatörler4.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\bin\Debug\net7.0\Operatörler4.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\Operatörler4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\Operatörler4.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\Operatörler4.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\Operatörler4.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\Operatörler4.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\refint\Operatörler4.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\Operatörler4.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\Operatörler4.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler4\obj\Debug\net7.0\ref\Operatörler4.dll

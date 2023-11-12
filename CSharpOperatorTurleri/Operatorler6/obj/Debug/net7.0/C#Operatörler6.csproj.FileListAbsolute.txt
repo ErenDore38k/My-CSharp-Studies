@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\bin\Debug\net7.0\C#Operatörler6.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\bin\Debug\net7.0\C#Operatörler6.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\bin\Debug\net7.0\C#Operatörler6.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\bin\Debug\net7.0\C#Operatörler6.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\bin\Debug\net7.0\C#Operatörler6.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\C#Operatörler6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\C#Operatörler6.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\C#Operatörler6.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\C#Operatörler6.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\C#Operatörler6.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\refint\C#Operatörler6.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\C#Operatörler6.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\C#Operatörler6.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\C#OperatörTürleri\C#Operatörler6\obj\Debug\net7.0\ref\C#Operatörler6.dll

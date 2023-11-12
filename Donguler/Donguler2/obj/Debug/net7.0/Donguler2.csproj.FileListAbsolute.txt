@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\bin\Debug\net7.0\Donguler2.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\bin\Debug\net7.0\Donguler2.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\bin\Debug\net7.0\Donguler2.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\bin\Debug\net7.0\Donguler2.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\bin\Debug\net7.0\Donguler2.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\Donguler2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\Donguler2.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\Donguler2.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\Donguler2.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\Donguler2.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\refint\Donguler2.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\Donguler2.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\Donguler2.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Donguler\Donguler2\obj\Debug\net7.0\ref\Donguler2.dll

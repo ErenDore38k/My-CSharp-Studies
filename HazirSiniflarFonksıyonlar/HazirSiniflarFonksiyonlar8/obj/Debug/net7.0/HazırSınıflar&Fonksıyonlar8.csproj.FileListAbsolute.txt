@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\bin\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\bin\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\bin\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\bin\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\bin\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\refint\HazırSınıflar&Fonksıyonlar8.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\HazırSınıflar&Fonksıyonlar8.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\HazirSiniflar&Fonksıyonlar\HazirSiniflar&Fonksiyonlar8\obj\Debug\net7.0\ref\HazırSınıflar&Fonksıyonlar8.dll

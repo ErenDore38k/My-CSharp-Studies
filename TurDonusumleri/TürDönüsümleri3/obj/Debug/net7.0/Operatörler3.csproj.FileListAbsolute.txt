@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\bin\Debug\net7.0\Operatörler3.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\bin\Debug\net7.0\Operatörler3.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\bin\Debug\net7.0\Operatörler3.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\bin\Debug\net7.0\Operatörler3.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\bin\Debug\net7.0\Operatörler3.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\Operatörler3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\Operatörler3.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\Operatörler3.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\Operatörler3.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\Operatörler3.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\refint\Operatörler3.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\Operatörler3.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\Operatörler3.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\TürDönüsümleri\Operatörler3\obj\Debug\net7.0\ref\Operatörler3.dll

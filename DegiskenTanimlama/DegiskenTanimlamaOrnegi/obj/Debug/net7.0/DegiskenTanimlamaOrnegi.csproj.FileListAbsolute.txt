@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\bin\Debug\net7.0\DegiskenTanimlamaOrnegi.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\bin\Debug\net7.0\DegiskenTanimlamaOrnegi.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\bin\Debug\net7.0\DegiskenTanimlamaOrnegi.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\bin\Debug\net7.0\DegiskenTanimlamaOrnegi.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\bin\Debug\net7.0\DegiskenTanimlamaOrnegi.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\DegiskenTanimlamaOrnegi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\DegiskenTanimlamaOrnegi.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\DegiskenTanimlamaOrnegi.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\DegiskenTanimlamaOrnegi.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\DegiskenTanimlamaOrnegi.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\refint\DegiskenTanimlamaOrnegi.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\DegiskenTanimlamaOrnegi.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\DegiskenTanimlamaOrnegi.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DegiskenTanimlama\DegiskenTanimlamaOrnegi\obj\Debug\net7.0\ref\DegiskenTanimlamaOrnegi.dll

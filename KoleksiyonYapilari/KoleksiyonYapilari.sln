@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yapilar1", "Yapilar1\Yapilar1.csproj", "{20AB7391-6FE6-41A3-8CA4-26846A99E6CF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Yapilar2", "Yapilar2\Yapilar2.csproj", "{1E2E2A2B-8C2A-423D-8470-0D73085EA3E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20AB7391-6FE6-41A3-8CA4-26846A99E6CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20AB7391-6FE6-41A3-8CA4-26846A99E6CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20AB7391-6FE6-41A3-8CA4-26846A99E6CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20AB7391-6FE6-41A3-8CA4-26846A99E6CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2E2A2B-8C2A-423D-8470-0D73085EA3E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2E2A2B-8C2A-423D-8470-0D73085EA3E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2E2A2B-8C2A-423D-8470-0D73085EA3E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2E2A2B-8C2A-423D-8470-0D73085EA3E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {453E96B2-17D1-4263-AF27-EC8B58FA9898}
+	EndGlobalSection
+EndGlobal

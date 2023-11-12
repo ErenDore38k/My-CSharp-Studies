@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\bin\Debug\net7.0\StringFonksiyonları8.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\bin\Debug\net7.0\StringFonksiyonları8.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\bin\Debug\net7.0\StringFonksiyonları8.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\bin\Debug\net7.0\StringFonksiyonları8.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\bin\Debug\net7.0\StringFonksiyonları8.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\StringFonksiyonları8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\StringFonksiyonları8.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\StringFonksiyonları8.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\StringFonksiyonları8.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\StringFonksiyonları8.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\refint\StringFonksiyonları8.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\StringFonksiyonları8.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\StringFonksiyonları8.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\StringFonksiyonları\StringFonksiyonları8\obj\Debug\net7.0\ref\StringFonksiyonları8.dll

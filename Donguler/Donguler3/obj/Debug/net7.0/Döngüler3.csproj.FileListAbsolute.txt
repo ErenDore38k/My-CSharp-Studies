@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\bin\Debug\net7.0\Döngüler3.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\bin\Debug\net7.0\Döngüler3.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\bin\Debug\net7.0\Döngüler3.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\bin\Debug\net7.0\Döngüler3.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\bin\Debug\net7.0\Döngüler3.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\Döngüler3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\Döngüler3.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\Döngüler3.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\Döngüler3.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\Döngüler3.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\refint\Döngüler3.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\Döngüler3.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\Döngüler3.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Döngüler\Döngüler3\obj\Debug\net7.0\ref\Döngüler3.dll

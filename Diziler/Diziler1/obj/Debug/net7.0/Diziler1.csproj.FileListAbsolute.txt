@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\bin\Debug\net7.0\Diziler1.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\bin\Debug\net7.0\Diziler1.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\bin\Debug\net7.0\Diziler1.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\bin\Debug\net7.0\Diziler1.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\bin\Debug\net7.0\Diziler1.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\Diziler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\Diziler1.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\Diziler1.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\Diziler1.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\Diziler1.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\refint\Diziler1.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\Diziler1.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\Diziler1.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\Diziler\Diziler1\obj\Debug\net7.0\ref\Diziler1.dll

@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\bin\Debug\net7.0\AkisKontrolMekanizmalari7.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\bin\Debug\net7.0\AkisKontrolMekanizmalari7.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\bin\Debug\net7.0\AkisKontrolMekanizmalari7.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\bin\Debug\net7.0\AkisKontrolMekanizmalari7.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\bin\Debug\net7.0\AkisKontrolMekanizmalari7.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\AkisKontrolMekanizmalari7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\AkisKontrolMekanizmalari7.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\AkisKontrolMekanizmalari7.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\AkisKontrolMekanizmalari7.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\AkisKontrolMekanizmalari7.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\refint\AkisKontrolMekanizmalari7.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\AkisKontrolMekanizmalari7.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\AkisKontrolMekanizmalari7.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\AkisKontrolMekanizmalariKullanimi\AkisKontrolMekanizmalari7\obj\Debug\net7.0\ref\AkisKontrolMekanizmalari7.dll

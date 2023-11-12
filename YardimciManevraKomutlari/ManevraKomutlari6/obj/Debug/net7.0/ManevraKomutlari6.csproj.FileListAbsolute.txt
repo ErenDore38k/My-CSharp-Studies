@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\bin\Debug\net7.0\ManevraKomutlari6.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\bin\Debug\net7.0\ManevraKomutlari6.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\bin\Debug\net7.0\ManevraKomutlari6.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\bin\Debug\net7.0\ManevraKomutlari6.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\bin\Debug\net7.0\ManevraKomutlari6.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ManevraKomutlari6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ManevraKomutlari6.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ManevraKomutlari6.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ManevraKomutlari6.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ManevraKomutlari6.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\refint\ManevraKomutlari6.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ManevraKomutlari6.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ManevraKomutlari6.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\YardimciManevraKomutlari\ManevraKomutlari6\obj\Debug\net7.0\ref\ManevraKomutlari6.dll

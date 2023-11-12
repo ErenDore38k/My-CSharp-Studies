@@ -1,0 +1,14 @@
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\bin\Debug\net7.0\VeriselPerformanslar1.exe
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\bin\Debug\net7.0\VeriselPerformanslar1.deps.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\bin\Debug\net7.0\VeriselPerformanslar1.runtimeconfig.json
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\bin\Debug\net7.0\VeriselPerformanslar1.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\bin\Debug\net7.0\VeriselPerformanslar1.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\VeriselPerformanslar1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\VeriselPerformanslar1.AssemblyInfoInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\VeriselPerformanslar1.AssemblyInfo.cs
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\VeriselPerformanslar1.csproj.CoreCompileInputs.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\VeriselPerformanslar1.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\refint\VeriselPerformanslar1.dll
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\VeriselPerformanslar1.pdb
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\VeriselPerformanslar1.genruntimeconfig.cache
+C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DizılerdeVeriselPerformanslar\VeriselPerformanslar1\obj\Debug\net7.0\ref\VeriselPerformanslar1.dll
