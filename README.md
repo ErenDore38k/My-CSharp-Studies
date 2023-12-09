@@ -26,7 +26,7 @@
 ![CSharp Degiskenler13](/Github/Assets/Images/KoleksiyonYapilari.png)
 ![CSharp Degiskenler14](/Github/Assets/Images/ForeachIterasyonu.png)
 ![CSharp Degiskenler15](/Github/Assets/Images/HazirSiniflarFonksiyonlar.png)
-#### TR
+
       
 ### TR 
 * Projenin amacı C Sharp'a ilgi duyan programcıları bilgilendirmektir.
@@ -35,7 +35,4 @@
 * Proje ile ilgili öneride bulunmak isterseniz bana e-posta adresimden ulaşabilirsiniz.<br>
 ​* Görseller konu sırasına göre eklenmiştir.
  
-
-
-
 
