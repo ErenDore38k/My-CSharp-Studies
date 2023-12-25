@@ -1,4 +1,4 @@
-﻿//Foreach İterasyonu Nasıl Kullanılır?
+﻿
 
 
 using System.Collections;
@@ -9,4 +9,4 @@ foreach (object eleman in sayilar)
 {
     Console.WriteLine(eleman);
 }
-// Yukarıdaki örnek Foreach'in proportisini göstermek adına yapılmıştır.
+
