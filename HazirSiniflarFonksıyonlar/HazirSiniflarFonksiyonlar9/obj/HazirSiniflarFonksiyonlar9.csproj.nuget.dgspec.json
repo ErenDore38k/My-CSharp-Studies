@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj": {}
+    "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj": {
+    "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj",
+        "projectUniqueName": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj",
         "projectName": "HazirSiniflarFonksiyonlar9",
-        "projectPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj",
+        "projectPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\HazirSiniflarFonksiyonlar9.csproj",
         "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\obj\\",
+        "outputPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\HazirSiniflarFonksıyonlar\\HazirSiniflarFonksiyonlar9\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Eren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,7 +1,4 @@
-﻿//Math Sınıfı - Sqrt Fonksiyonu
-
-//Square Root. Elimizdeki değerlerin 2. dereceden kökünü yani karekökünü almak istiyorsak kullanılır.
-//square root(sqrt) = karekök
+﻿
 
 Console.WriteLine(Math.Sqrt(4));
 Console.WriteLine(Math.Sqrt(25));

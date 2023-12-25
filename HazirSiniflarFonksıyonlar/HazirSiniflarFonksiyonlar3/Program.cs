@@ -1,8 +1,4 @@
-﻿//Math Sınıfı - Floor Fonksiyonu
-
-//floor = taban, zemin
-//Ceiling fonksiyonun tam tersi olarak küsüratlı değerleri alt değere yani sayının kendisine yuvarlar.
-
+﻿
 
 double e = Math.Floor(2.48);
 Console.WriteLine(e);
