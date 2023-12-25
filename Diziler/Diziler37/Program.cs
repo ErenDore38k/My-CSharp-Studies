@@ -1,5 +1,4 @@
-﻿//Çok Boyutlu Dizilerdeki Verileri İç İçe Döngülerle Ekrana Yazdırma
-
+﻿
 int[,,] sayilar = new int[2, 2, 4];
 sayilar[0, 0, 0] = 10;
 sayilar[0, 0, 1] = 11;

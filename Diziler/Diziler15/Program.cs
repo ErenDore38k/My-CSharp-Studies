@@ -1,6 +1,4 @@
-﻿//Array Sınıfı Copy Metodu
-
-//Copy metodu elimizdeki bir dizinin verilerini bir başka diziye kopyalamamızı sağlayan bir fonksiyondur.
+﻿
 
 Array names = new[] { "Hilmi", "Hüseyin", "Şuayip", "Rıfkı", "Hamdullah" };
 string[] names2 = new string[names.Length];

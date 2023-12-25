@@ -1,4 +1,4 @@
-﻿//Çok Boyutlu Dizilerden Değer Okuma
+﻿
 
 int[,] sayilar = new int[4, 3];
 sayilar[0, 0] = 3;

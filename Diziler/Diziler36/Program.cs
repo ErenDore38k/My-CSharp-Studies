@@ -1,4 +1,4 @@
-﻿//Çok Boyutlu Dizilerin Belirli Bir Derecesinin Eleman Sayısını Hesaplama
+﻿
 
 int[,,] sayilar = new int[2, 2, 4];
 sayilar[0, 0, 0] = 10;

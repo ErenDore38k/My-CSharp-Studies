@@ -1,9 +1,4 @@
-﻿//Dizi İçerisinde Döngüyle Dönme
-
-/* Diziler genellikle döngülerle birlikte algoritmalarda kullanılmaktadırlar/işlenmektedirler. 
- * Döngülerde genellikle dizilerle ya da ileride göreceğimiz koleksiyonlarla birliktede kullanılmaktadırlar.
- */
-
+﻿
 string[] personeller = new string[10];
 personeller[0] = "Hilmi";
 personeller[1] = "Hüseyin";

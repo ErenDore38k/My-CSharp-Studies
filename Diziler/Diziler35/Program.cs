@@ -1,4 +1,4 @@
-﻿//Çok Boyutlu Dizilerin Eleman Sayısını Hesaplama
+﻿
 
 int[,,] sayilar = new int[2, 2, 4];
 sayilar[0, 0, 0] = 10;
@@ -19,4 +19,3 @@ sayilar[1, 1, 2] = 35;
 sayilar[1, 1, 3] = 88;
 
 Console.WriteLine(sayilar.Length);
-//2*2*4 = 16 : İlgili dizinin totaldeki eleman sayısı tüm boyutların eleman sayıyının çarpımıyla elde edilir.

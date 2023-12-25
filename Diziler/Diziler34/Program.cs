@@ -1,4 +1,4 @@
-﻿//Dizinin Derecesini Öğrenme(Rank Özelliği)
+﻿
 
 int[,] sayilar = new int[4, 3];
 sayilar[0, 0] = 3;

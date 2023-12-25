@@ -1,10 +1,4 @@
-﻿//Dizi İçerisinde Döngüyle Dönme Kritik
-
-/*Dizi içerisinde dönecek olan döngü kombinasyonunda dizinin eleman sayısını manuel bir şekilde kullanmamalı, bu sayısal değeri
- *dizinin kendisinden almalıyız.
- *lenght:Dizinin kaç elemanlı olduğunu int olarak geriye döndürür.
- */
-
+﻿
 string[] personeller = new string[13];
 personeller[0] = "Hilmi";
 personeller[1] = "Hüseyin";

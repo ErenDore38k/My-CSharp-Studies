@@ -1,5 +1,4 @@
-﻿//Düzensiz Dizilerde İç İçe Döngülerle Çalışma
-
+﻿
 int[][] sayilar = new int[3][];
 sayilar[0] = new int[3] { 2, 4, 6 };
 sayilar[1] = new int[5] { 3, 6, 9, 12, 15 };

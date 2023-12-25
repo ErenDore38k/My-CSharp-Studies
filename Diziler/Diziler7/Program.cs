@@ -1,4 +1,4 @@
-﻿//Dizi Tanımlama Varyasyonları - Varyasyon 2
+﻿
 
 string[] isimler = { "Rıfkı", "Cemal", "Hüsamettin" };
 
