@@ -1,4 +1,4 @@
-﻿//try - catch when Yapısı İle Hata Filtreleme (C# 6.0)
+﻿
 
 try
 {
@@ -10,5 +10,5 @@ catch (DivideByZeroException ex) when (3 == 3)
     Console.WriteLine(" Mesaj :" + ex.Message);
 }
 
-//try-catch bloklarına when keywordü ile şart uyguluyabilmekteyiz.
+
 
