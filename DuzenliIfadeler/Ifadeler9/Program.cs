@@ -1,8 +1,4 @@
-﻿//Regular Expressions Operatörleri [n] Operatörleri
-
-//Karakter aralığı belirtir.
-//Ayrıca özel karakterlerin yerinde yazılmasınıda ifade eder.
-//\d{3}[A-E]
+﻿
 
 using System.Text.RegularExpressions;
 

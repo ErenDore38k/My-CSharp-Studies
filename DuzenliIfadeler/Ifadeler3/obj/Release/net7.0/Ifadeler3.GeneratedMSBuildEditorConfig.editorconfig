@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ifadeler3
-build_property.ProjectDir = C:\Users\Eren\Documents\Development\CSharp\My-C-Sharp-Studies\DuzenliIfadeler\Ifadeler3\
+build_property.ProjectDir = C:\Users\Eren\Documents\Development\CSharp\My-CSharp-Studies\DuzenliIfadeler\Ifadeler3\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

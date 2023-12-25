@@ -1,7 +1,4 @@
-﻿//Regular Expressions Operatörleri . Operatörü
-
-//Kullanıldığı yerde \n karakteri dışında herhangi bir karakter bulunabileceğini belirtir.
-//\d{3}.A
+﻿
 
 using System.Text.RegularExpressions;
 

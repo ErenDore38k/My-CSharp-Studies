@@ -1,4 +1,4 @@
-﻿//Regular Expressions Match Sınıfı Özellikleri
+﻿
 
 using System.Text.RegularExpressions;
 
