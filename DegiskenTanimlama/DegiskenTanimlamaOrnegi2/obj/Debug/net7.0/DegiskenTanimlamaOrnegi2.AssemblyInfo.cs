@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DegiskenTanimlamaOrnegi2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a2fcebbab307b1f910dcebd3fcc5ef37c0f3aac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DegiskenTanimlamaOrnegi2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DegiskenTanimlamaOrnegi2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,12 +1,12 @@
 ﻿
-string AdSoyad = "Eren Döre"; // metinsel örneği 
-char başharf = 'g';  //karaktersel örneği 
+string AdSoyad = "Eren Döre"; 
+char başharf = 'g';   
 bool medenihal = false;
 int x = 3;
 int y = 253;
 float f = 3.14f;
 float g = 3.15F;
-double d = 25.14;// Sonuna bie harf eklememiz gerekmiyor float ve decimal dan farkı ekleyeceksekde d and D olabilir.
+double d = 25.14;
 decimal e = 14.14m;
 decimal s = 36.47M;
 
@@ -17,7 +17,7 @@ bool takım = true;
 string futbol = takım == true ? " Sen GALATASARAYLISIN" : " Sen Galatasaraylı Değilsin ";
 Console.WriteLine(futbol);
 
-int sayı = 1_000_000;  //Alt tire sayesinde sayının okunabilirliğini arttırmış oluyoruz.
+int sayı = 1_000_000;  
 bool a = default(bool);
 int yc = default(int);
 string z = default(string);
