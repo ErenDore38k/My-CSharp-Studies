@@ -1,10 +1,5 @@
 ﻿
 
-/*
- *Static Local Functions(Metot İçerisinde Tanımlanabilir Statik Yerel Metotlar) 
- *Static Local Functions kullanmak Local Functions kullanmaya nazaran daha performanslıdır.
- */
-
 using System;
 
 namespace functions
@@ -31,7 +26,6 @@ namespace functions
         }
     }
 }
-
 
 
 

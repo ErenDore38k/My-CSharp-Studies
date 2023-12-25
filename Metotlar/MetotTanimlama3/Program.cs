@@ -1,12 +1,4 @@
-﻿/*
- *Metot Tanımlama/Oluşturma Varyasyonları - Geriye Değer Döndüren Parametre Alan Metot Türü
- *
- * 
- * 
- * 
- * 
- * 
- */
+﻿
 
 using System;
 

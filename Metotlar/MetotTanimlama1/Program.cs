@@ -1,11 +1,4 @@
 ﻿
-/*
- *Metodun parametre kısmında tanımlanıyorsa parametre,
- *metodun gövdesinde ya da class içerisinde tanımlanıyorsa değişken ya da field. 
- *Metotlarda sınırsız sayıda parametre değeri girilebilir. 
- * 
- * 
- */
 
 using System;
 
