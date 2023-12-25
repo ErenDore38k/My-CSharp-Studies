@@ -1,7 +1,4 @@
-﻿//Manevratik Komutlar - break Komutunu Örneklendirelim 2
-
-//Kullanıcıdan alınan sonsuz adet sayı değerlerinden 37'nin katı girildiğinde sonlanan uygulamayı yazalım.
-
+﻿
 while (true)
 {
     Console.WriteLine("Lütfen bir sayı giriniz:");

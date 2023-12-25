@@ -1,6 +1,4 @@
-﻿//Manevratik Komutlar - break Komutunu Örneklendirelim 1
-
-//Kullanıcıdan 't' harfi girene kadar alınan sınırsız sayıda sayıyı toplayan ve sonucu ekrana yazdıran uygulamayı yazalım.
+﻿
 int toplam = 0;
 while (true)
 {

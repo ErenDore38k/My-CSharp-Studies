@@ -1,7 +1,4 @@
-﻿//Manevratik Komutlar - continue Komutunu Örneklendirelim 1
-
-//Kullanıcının girdiği sonsuz adet sayıdan pozitif olanlarını çarpan ve 't' (enter) yapıldığında sonucu ekrana yazdıran kodu yazalım.
-
+﻿
 int carpım = 1;
 while (true)
 {
