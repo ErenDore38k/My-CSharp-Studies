@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\KonseptliKonseptsizKeywordler\\KonseptliKonseptsizKeywordler\\Keywordler.csproj",
+      "projectUniqueName": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\KonseptliKonseptsizKeywordler\\KonseptliKonseptsizKeywordler\\Keywordler.csproj",
       "projectName": "Keywordler",
-      "projectPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\KonseptliKonseptsizKeywordler\\KonseptliKonseptsizKeywordler\\Keywordler.csproj",
+      "projectPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\KonseptliKonseptsizKeywordler\\KonseptliKonseptsizKeywordler\\Keywordler.csproj",
       "packagesPath": "C:\\Users\\Eren\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-C-Sharp-Studies\\KonseptliKonseptsizKeywordler\\KonseptliKonseptsizKeywordler\\obj\\",
+      "outputPath": "C:\\Users\\Eren\\Documents\\Development\\CSharp\\My-CSharp-Studies\\KonseptliKonseptsizKeywordler\\KonseptliKonseptsizKeywordler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eren\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
