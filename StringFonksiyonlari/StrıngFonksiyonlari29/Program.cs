@@ -1,4 +1,4 @@
-﻿//String Fonksiyonları Örnek -Girilen Metnin İçerisinde Kaç Adet n Karakterinin Geçtiğini Hesaplayalım
+﻿
 
 Console.WriteLine("Lütfen bir metin giriniz:");
 string metin = Console.ReadLine();

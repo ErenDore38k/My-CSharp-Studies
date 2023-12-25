@@ -1,4 +1,4 @@
-﻿//String Formatlandırma
+﻿
 
 string isim = "Eren", soyisim = "Döre", tcNo = "10259660054";
 int yas = 20;

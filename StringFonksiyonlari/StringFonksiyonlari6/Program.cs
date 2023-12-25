@@ -1,8 +1,4 @@
-﻿//String Değeri string.Format Metodu İle Formatlandırma
-
-//String format fonksiyonu metinsel kalıbın içerisindeki indexel belirlenen noktalara sırayla değer göndermemizi sağlayan bir
-//fonksiyondur.
-
+﻿
 string isim = "Eren", soyisim = "Döre", tcNo = "20259660058";
 int yas = 20;
 bool medenihal = false;
