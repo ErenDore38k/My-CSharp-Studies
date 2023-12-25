@@ -1,6 +1,4 @@
-﻿//While Döngüsü Kritik Yapalım4
-
-//Klavyeden girilen sayının faktöriyelini hesaplayalım.
+﻿
 
 int sayi = int.Parse(Console.ReadLine());
 int faktoriyel = 1;
