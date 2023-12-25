@@ -1,4 +1,4 @@
-﻿//if Else Yapısı Üzerine Kritik Yapalım 1
+﻿
 
 int q = 38;
 if (q != 38)

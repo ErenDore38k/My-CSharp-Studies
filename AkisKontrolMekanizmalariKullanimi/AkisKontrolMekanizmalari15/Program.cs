@@ -1,4 +1,4 @@
-﻿//if Else if Else Yapısı
+﻿
 
 int s = 100;
 if (s < 100)

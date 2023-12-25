@@ -1,7 +1,4 @@
-﻿//if Yapisi Örnek 1
-
-//Klavyeden iki ürünün fiyatı girildiğinde toplam fiyat 200 Tl'den fazla ise , 2. üründen %25 indirim yaparak ödenecek tutarı
-//gösteren uygulamayı yapalım.
+﻿
 
 Console.Write(" Lütfen birinci ürünün fiyatını giriniz : ");
 int birinciUrununFiyatı = int.Parse(Console.ReadLine());

@@ -1,5 +1,5 @@
 ﻿
-// Tek satırlık işlemler için maliyet düşürücü ve kullanışlı semantiklerdir
+
 
 int e = 10;
 string ısım = e switch

@@ -1,5 +1,4 @@
-﻿//if Yapisi Örnek2
-//Girilen sayının negatif yada pozitif oldugunu gösteren uygulamayı yazalım.
+﻿
 
 int SAYI = int.Parse(Console.ReadLine());
 string Sonuç = "";
